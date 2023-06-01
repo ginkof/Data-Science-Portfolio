@@ -9,8 +9,8 @@
 ### Classification & Regression
 Chapter 7: Supervised ML: Predicting Housing Prices
 
-### Clustering 
-Chapter 6: Unsupervised ML: Clustering Songs
+### Clustering
+* __[Automating Mood-Based Playlists with Data Science]([https://github.com/youssefHosni/Data-Science-Portofolio/tree/main/Machine%20Learning/Clustering/Finding-the-best-Tornoto-neighborhood-to-open-a-new-gym](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science))__: Utilized python to implement unsupervised techniques to automate playlist creation for Moosic, a start-up focused on personalized music curation.
 ## Data Science:
 
 ### Chapter 3: Data Cleaning & Storytelling
