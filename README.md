@@ -23,3 +23,7 @@ Chapter 6: Unsupervised ML: Clustering Songs
 ### Chapter 1: Data Driven Businesses with SQL & Tableau
 
 ### Chapter 4: A/B Testing
+
+## Data Visualization:
+
+### DVS project
