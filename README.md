@@ -12,6 +12,7 @@
 ### Data Science:
 
 #### Chapter 3: Data Cleaning & Storytelling
+* __[Unveiling Business Insights: Data Cleaning and Analysis for Optimal Decision-Making](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Science/Unveiling%20Business%20Insights:%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making)__: Utilized Python, this project applies advanced data techniques, including data cleaning, classification, and analysis, to provide actionable insights on product categorization, pricing distribution, discounts, seasonal trends, and data collection improvements for Eniac, an e-commerce tech company.
 
 ### Data Engineering:
 
