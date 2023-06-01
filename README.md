@@ -35,4 +35,4 @@
 ----
 ### Data Visualization:
 
-#### DVS project
+* __[Is the world exploding?]()__ : Utilized Python and 'seasonal decompose'-approach on hourly meteorological data for years 1980-2019 for each county in the United States to analyze the change in time of temperature (data availale [here](https://www.osti.gov/biblio/1960548)). Utilized Supervised Machine Learning to make predicion on its future behavior and visualized effectivily our findings through Adobe Illustrator (ongoing).
