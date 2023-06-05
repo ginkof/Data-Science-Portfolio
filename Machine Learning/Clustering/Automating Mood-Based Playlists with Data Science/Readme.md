@@ -10,7 +10,7 @@ This project is broken down into two main notebooks:
 
 **Notebook 1: 1.audio_features_analysis**
 
-* Perform unsupervised machine learning analysis on a dataset of audio features of songs ([data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science/Data))
+* Perform unsupervised machine learning analysis on a dataset of audio features of songs ([data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science/Data) and [feature description](https://round-caution-74a.notion.site/Feature-description-743db18aa7324597a2648cbc25dce632?pvs=4))
 * Scale data and calculate pairwise distances between the scaled features.
 * Explore correlations between features and plots pairs of features with strong correlation.
 * Apply Principal Component Analysis (PCA) on selected features, determines the optimal number of clusters using elbow and silhouette methods, performs K-means clustering, and visualizes the clusters using treemaps and heatmaps.
