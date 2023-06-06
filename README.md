@@ -9,10 +9,12 @@
 
 
 #### Clustering
-* __[Automating Mood-Based Playlists with Data Science](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science)__: Utilized Python to implement unsupervised techniques to automate playlist creation for Moosic, a start-up focused on personalized music curation.
+* __[Automating Mood-Based Playlists with Data Science](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Can%20Machine%20Learning%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store)__: Utilized Python to implement unsupervised techniques to automate playlist creation for Moosic, a start-up focused on personalized music curation.
+
 
 #### Recommender System
-* __[Can Machine Learning catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD Store]([https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Can%20Machine%20Learning%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store))__: Utilized machine learning and Python to create personalized recommender systems for WBSFLIX, an offline DVD store transitioning online. By leveraging the store's database, the goal is to deliver tailored movie recommendations, similar to Netflix.
+* __[Can Machine Learning catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD Store](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Can%20Machine%20Learning%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store)__: 
+* Utilized machine learning and Python to create personalized recommender systems for WBSFLIX, an offline DVD store transitioning online. By leveraging the store's database, the goal is to deliver tailored movie recommendations, similar to Netflix.
 
 ----
 ### Data Science:
