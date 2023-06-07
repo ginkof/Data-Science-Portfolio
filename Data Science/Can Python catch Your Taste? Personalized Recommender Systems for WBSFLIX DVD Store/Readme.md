@@ -1,4 +1,4 @@
-# Can Machine Learning catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD Store
+# Can Python catch Your Taste? Personalized Recommender Systems for WBSFLIX DVD Store
 
 ### Project Overview
 The goal of this project is to develop a set of recommender systems for WBSFLIX, an offline DVD store transitioning to an online platform. The store's owner, Ursula, seeks to provide personalized movie recommendations to her customers in order to enhance their online shopping experience. By leveraging the store's existing database, we will design and implement various recommender systems to cater to different levels of personalization. The ultimate aim is to assist Ursula in replicating the personalized recommendations that her loyal customers have come to appreciate in the physical store.
