@@ -18,3 +18,7 @@ Notebook [Popularity & Correlation Rankings.ipynb](https://github.com/ginkof/Dat
 ### Streamlit app
 
 In the [repository](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App) you can find both the streamlit app [movie_recommender_app.py](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App/movie_recommender_app.py) and the [functions](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App/my_functions.py) it is based on.
+
+
+### Results
+The case study and overview of the streamlit app are presented informally in the powerpoint file [Presentation.pptx](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Presentation.pptx).
