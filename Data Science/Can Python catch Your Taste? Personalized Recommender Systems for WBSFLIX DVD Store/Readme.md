@@ -9,3 +9,12 @@ The project are based on [data](https://github.com/ginkof/Data-Science-Portfolio
 > F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems (TiiS) 5, 4: 19:1–19:19. <https://doi.org/10.1145/2827872>
 
 ### Notebooks
+
+Notebook [Popularity & Correlation Rankings.ipynb](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Notebooks):
+* performs a preliminary exploration of the data
+* implements popularity, user and item based recommender
+* perform scraping of images via API call
+
+### Streamlit app
+
+In the [repository](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App) you can find both the streamlit app [movie_recommender_app.py](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App/movie_recommender_app.py) and the [functions](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Can%20Python%20catch%20Your%20Taste%3F%20Personalized%20Recommender%20Systems%20for%20WBSFLIX%20DVD%20Store/Streamlit%20App/my_functions.py) it is based on.
