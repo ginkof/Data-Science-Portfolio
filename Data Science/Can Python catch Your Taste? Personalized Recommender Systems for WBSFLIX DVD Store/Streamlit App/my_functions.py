@@ -7,8 +7,11 @@ import pandas as pd
 from sklearn.preprocessing import MinMaxScaler
 from sklearn.metrics.pairwise import cosine_similarity
 
+
+
+#Function for scraping images through API call
 api_key = 'c6fd04fa1072286bca9b40146fe5409d'
-image_size = (1500, 1000)  # Dimensione desiderata per l'immagine
+image_size = (1500, 1000) 
 
 def movie_image(movie_id,links):
     try:
@@ -58,15 +61,18 @@ def movie_image(movie_id,links):
     
     
     
-    
+
+#Function for getting movie title
 def movie_title(movie_id,df):
     return df.loc[df["movieId"]==movie_id,"title"].values[0]
 
 
+#Function for getting movie url
 def movie_url(movie_id, df):
     return f'https://www.themoviedb.org/movie/{str(int(df.loc[df["movieId"] == movie_id].iloc[0, 2]))}/'
 
 
+#Function for designing streamlit buttons
 def redirect_button(url: str, text: str = None):
     st.markdown(
         f"""
@@ -76,7 +82,7 @@ def redirect_button(url: str, text: str = None):
                 align-items: center;
                 padding: 0.5em 1em;
                 color: #321E37;
-                background-color: #FFC197;
+                background-color: #E2E0ED;
                 border-radius: 20px;
                 text-decoration: none;
                 height: 20px;
@@ -88,9 +94,11 @@ def redirect_button(url: str, text: str = None):
         """,
         unsafe_allow_html=True
     )
+    #orange Hex Color #FFC197
 
 
 
+#Function for popularity based recommender based on linear combination
 def linear_hybrid(n, df, weight_counts):
     #This function linearly combines ratings and counts with appropriate weights
     
@@ -112,9 +120,10 @@ def linear_hybrid(n, df, weight_counts):
 
 
 
+#This function computes the most popular movies based on linear combination method
+#This function is an upgrade of linear_hybrid() as it also manipulates the original datafram
 def fun_popularity(n, df, weight_counts):
-    #This function computes the most popular movies based on linear combination method
-    #This function is an upgrade of linear_hybrid() as it also manipulates the original dataframe
+    
     
     #introduce the average rating and the rating count
     popularity = df[['movieId','rating']].groupby(by='movieId').agg(avg_rating=("rating","mean"))
@@ -133,6 +142,7 @@ def fun_popularity(n, df, weight_counts):
 
 
 
+#Function for user based recommendation
 def special_for_you_general(uID,n,ratings,movies):
 
     #create a users-items table
@@ -161,7 +171,7 @@ def special_for_you_general(uID,n,ratings,movies):
 
 
 
-
+#Function for selecting the favourite movies among the seen one by a specific user
 def favourite_movies(user_id,n,ratings,movies):
     best_movieId = ratings.loc[(ratings['userId'] == user_id) & (ratings['userId'] >0)].sort_values(by="rating", ascending=False).head(n)['movieId'].tolist()
 
@@ -171,7 +181,7 @@ def favourite_movies(user_id,n,ratings,movies):
     return best_movies
 
 
-
+#Function for item based recommendation
 def item_based_collaborative_filtering(movie_name,n,movies,ratings):
     
     #map the movie_name into movieId

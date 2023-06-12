@@ -8,12 +8,12 @@ import pandas as pd
 st.title('WBSflix')
 
 #import the data
-movies = pd.read_csv('/Users/G/WBS Bootcamp/8. Recommender Systems/Notebooks/Streamlit App/Data/movies.csv')
-links = pd.read_csv('/Users/G/WBS Bootcamp/8. Recommender Systems/Notebooks/Streamlit App/Data/links.csv')
-ratings = pd.read_csv('/Users/G/WBS Bootcamp/8. Recommender Systems/Notebooks/Streamlit App/Data/ratings.csv')
+movies = pd.read_csv('/Users/G/Desktop/Documents/Formazione in Data Science/WBS/WBS Bootcamp/8. Recommender Systems/Data/movies.csv')
+links = pd.read_csv('/Users/G/Desktop/Documents/Formazione in Data Science/WBS/WBS Bootcamp/8. Recommender Systems/Data/links.csv')
+ratings = pd.read_csv('/Users/G/Desktop/Documents/Formazione in Data Science/WBS/WBS Bootcamp/8. Recommender Systems/Data/ratings.csv')
 
 
-tab0, tab1, tab2, tab3 = st.tabs(["🏠 Home", "👤 Top Picks for You","🔝 Trending now", "🔎 Search"])
+tab0, tab1, tab2, tab3, tab4 = st.tabs(["🏠 Home", "👤 Top Picks for You","🔝 Trending now", "🔎 Search", "🤖 ChatBot"])
 
 
 
@@ -148,7 +148,9 @@ with tab3:
                 st.pyplot(movie_image(similarto_movie_name[5], links))
                 redirect_button(movie_url(similarto_movie_name[5], links), movie_title(similarto_movie_name[5], movies))
 
-
+            
+with tab4:
+    st.header("WORK IN PROGRESS 🚧")
     
     
     
