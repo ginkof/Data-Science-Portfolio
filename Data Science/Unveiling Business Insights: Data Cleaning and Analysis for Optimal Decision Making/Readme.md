@@ -1,11 +1,11 @@
 # Unveiling Business Insights: Data Cleaning and Analysis for Optimal Decision Making
 
-This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
+This repository contains code and associated files for performing cleaning and analysis of chaotic data.
 
 ### Project Overview
 
 This project involves analyzing internal data for Eniac, an e-commerce tech company, to determine whether or not it is beneficial to offer discounts on products. The Marketing Team Lead believes that discounts can improve customer acquisition, satisfaction, and retention, while the main investors are concerned about offering aggressive discounts and prefer positioning the company in the quality segment.
-The goal of this project is to analyze the company's data and provide insights and recommendations on whether or not discounts are beneficial to the company in the long run. Python will be used to perform the necessary data analysis tasks.
+The goal of this project is to analyze the company's data and provide insights and recommendations on whether or not discounts are beneficial to the company in the long run. Python is be used to perform the necessary data analysis tasks.
 
 ### Data Description
 
@@ -14,8 +14,9 @@ The data used for this project is internal data from Eniac, which is not anonymi
 ### Notebooks
 
 The tasks for this project include:
+Notebook 1: Data_cleaning.ipynb and Notebook 2: Data_quality.ipynb
+* Cleaning, preparing and assessing the quality the data for analysis.
 
-Cleaning and preparing the data for analysis.
 Exploring the data to gain insights on customer behavior and purchasing patterns.
 Analyzing the impact of discounts on customer acquisition, satisfaction, and retention.
 Providing insights and recommendations on whether or not discounts are beneficial to the company in the long run.
