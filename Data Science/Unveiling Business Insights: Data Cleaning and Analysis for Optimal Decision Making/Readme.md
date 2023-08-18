@@ -13,20 +13,15 @@ The data used for this project is internal data from Eniac, which is not anonymi
 
 ### Notebooks
 **[Notebook 1](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_cleaning.ipynb): Data_cleaning.ipynb** and **[Notebook 2](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_quality.ipynb): Data_quality.ipynb**
+* Cleaning, processing the data and assessing their quality
 
+**[Notebook 3](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Categories.ipynb): Categories.ipynb**
+* Crearing categories among the products
 
+**[Notebook 4](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_analysis.ipynb): Data_analysis.ipynb**
+* Exploring the data to gain insights on customer behavior and purchasing patterns.
+* Analyzing the impact of discounts on customer acquisition, satisfaction, and retention.
+* Providing insights and recommendations on whether or not discounts are beneficial to the company in the long run.
 
-Exploring the data to gain insights on customer behavior and purchasing patterns.
-Analyzing the impact of discounts on customer acquisition, satisfaction, and retention.
-Providing insights and recommendations on whether or not discounts are beneficial to the company in the long run.
-Technologies Used
-
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Conclusion
-
-This project will provide valuable insights and recommendations on whether or not discounts are beneficial to Eniac in the long run. By analyzing internal data, we can gain a better understanding of customer behavior and purchasing patterns and determine the impact of discounts on customer acquisition, satisfaction, and retention. The findings of this project will help Eniac make data-driven decisions on whether or not to offer discounts and how to position the company in the market.
+All the results are summarized in the [presentation](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Results.pptx) (Use of PPT recommended to enjoy visualization).
 
