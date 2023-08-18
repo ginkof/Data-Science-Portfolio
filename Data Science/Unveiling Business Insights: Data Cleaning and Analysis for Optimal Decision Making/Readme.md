@@ -9,7 +9,7 @@ The goal of this project is to analyze the company's data and provide insights a
 
 ### Data Description
 
-The data used for this project is internal data from Eniac, which is not anonymized. The data is expected to be a bit chaotic, and the complexity of the tasks will require the use of Python. The data includes information on orders placed, total revenue, and discounts offered.
+The [data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data) used for this project is internal data from Eniac, which is not anonymized. The data is expected to be a bit chaotic, and the complexity of the tasks will require the use of Python. The data includes information on orders placed, total revenue, and discounts offered.
 
 ### Notebooks
 **[Notebook 1](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_cleaning.ipynb): Data_cleaning.ipynb** and **[Notebook 2](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_quality.ipynb): Data_quality.ipynb**
