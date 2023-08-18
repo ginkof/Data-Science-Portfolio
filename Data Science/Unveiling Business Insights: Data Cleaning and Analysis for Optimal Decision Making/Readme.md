@@ -12,10 +12,9 @@ The goal of this project is to analyze the company's data and provide insights a
 The data used for this project is internal data from Eniac, which is not anonymized. The data is expected to be a bit chaotic, and the complexity of the tasks will require the use of Python. The data includes information on orders placed, total revenue, and discounts offered.
 
 ### Notebooks
+**[Notebook 1](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_cleaning.ipynb): Data_cleaning.ipynb** and **[Notebook 2](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Science/Unveiling%20Business%20Insights%3A%20Data%20Cleaning%20and%20Analysis%20for%20Optimal%20Decision%20Making/Data_quality.ipynb): Data_quality.ipynb**
 
-The tasks for this project include:
-Notebook 1: Data_cleaning.ipynb and Notebook 2: Data_quality.ipynb
-* Cleaning, preparing and assessing the quality the data for analysis.
+
 
 Exploring the data to gain insights on customer behavior and purchasing patterns.
 Analyzing the impact of discounts on customer acquisition, satisfaction, and retention.
