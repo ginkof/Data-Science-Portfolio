@@ -1,18 +1,17 @@
 # Unveiling Business Insights: Data Cleaning and Analysis for Optimal Decision Making
 
-*This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
+This repository contains code and associated files for deploying a plagiarism detector using AWS SageMaker.
 
-## Project Overview
+### Project Overview
 
 This project involves analyzing internal data for Eniac, an e-commerce tech company, to determine whether or not it is beneficial to offer discounts on products. The Marketing Team Lead believes that discounts can improve customer acquisition, satisfaction, and retention, while the main investors are concerned about offering aggressive discounts and prefer positioning the company in the quality segment.
-
 The goal of this project is to analyze the company's data and provide insights and recommendations on whether or not discounts are beneficial to the company in the long run. Python will be used to perform the necessary data analysis tasks.
 
-## Data Description
+### Data Description
 
 The data used for this project is internal data from Eniac, which is not anonymized. The data is expected to be a bit chaotic, and the complexity of the tasks will require the use of Python. The data includes information on orders placed, total revenue, and discounts offered.
 
-## Tasks
+### Notebooks
 
 The tasks for this project include:
 
