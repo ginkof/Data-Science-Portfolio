@@ -12,6 +12,11 @@
 * __[Automating Mood-Based Playlists with Data Science](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Clustering/Automating%20Mood-Based%20Playlists%20with%20Data%20Science)__: Utilized Python to implement unsupervised techniques to automate playlist creation for Moosic, a start-up focused on personalized music curation.
 
 ----
+### Deep Learning:
+* __[Python's Green Thumb: Image Recognition and Classification of Vegetables
+](https://github.com/ginkof/Python_Green_Thumb_Image_Recognition_and_Classification_of_Vegetables)__: Utilized Python to deploy a Streamlit app that uses an image classification deep learning model to identify vegetables. It generates educational text and stories about the detected vegetable using the OpenAI API.
+
+----
 ### Data Science:
 
 #### Data Cleaning
