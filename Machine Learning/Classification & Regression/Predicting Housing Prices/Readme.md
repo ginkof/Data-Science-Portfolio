@@ -15,6 +15,9 @@ This project notebooks can be found in the [classification](https://github.com/g
 * [2_Model_housing_Categorical.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification/2_Model_Housing_Categorical.ipynb): here we deal with categorical features using `OneHotEncoder`.
 * [3_Model_Housing_complete.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification/3_Model_Housing_complete.ipynb): here we put all together in a pipeline able to deal with all kinds of features, namely numerical, (un)ordered categorical.
 
+#### Regression
+* [diamonds_intro_regression.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Regression/diamonds_intro_regression.ipynb): walkthrough solution on the Seaborn datased about diamond to get familiar with the regression techniques (linear regression)
+
 ### Data
 The data can be found in [data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/data) and are organized according to the following features: 
 * LotFrontage: Linear feet of street connected to property
