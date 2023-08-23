@@ -10,6 +10,11 @@ The project involves building a model to predict house prices based on their cha
 ### Notebooks
 This project notebooks can be found in the [classification](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification) and [regression](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Regression) folders. Here the tasks of feature engineering, model training and testing are performed.
 
+#### Classification
+* [1_Model_housing.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification/1_Model_housing.ipynb): we start with a "dummy" model to get an intuition. Later we use a decision tree classifier, which is later perfected by means of grid search method and pipeline.
+* [2_Model_housing_Categorical.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification/2_Model_Housing_Categorical.ipynb): here we deal with categorical features using `OneHotEncoder`.
+* [3_Model_Housing_complete.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Classification/3_Model_Housing_complete.ipynb): here we put all together in a pipeline able to deal with all kinds of features, namely numerical, (un)ordered categorical.
+
 ### Data
 The data can be found in [data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/data) and are organized according to the following features: 
 * LotFrontage: Linear feet of street connected to property
@@ -21,3 +26,54 @@ The data can be found in [data](https://github.com/ginkof/Data-Science-Portfolio
 * GarageCars: Size of garage in car capacity
 * WoodDeckSF: Wood deck area in square feet
 * ScreenPorch: Screen porch area in square feet
+For the categorical dataset we have the following additional features:
+* SZoning: Identifies the general zoning classification of the sale.
+		
+       A	Agriculture
+       C	Commercial
+       FV	Floating Village Residential
+       I	Industrial
+       RH	Residential High Density
+       RL	Residential Low Density
+       RP	Residential Low Density Park 
+       RM	Residential Medium Density
+
+* Condition1: Proximity to various conditions
+	
+       Artery	Adjacent to arterial street
+       Feedr	Adjacent to feeder street	
+       Norm	Normal	
+       RRNn	Within 200' of North-South Railroad
+       RRAn	Adjacent to North-South Railroad
+       PosN	Near positive off-site feature--park, greenbelt, etc.
+       PosA	Adjacent to postive off-site feature
+       RRNe	Within 200' of East-West Railroad
+       RRAe	Adjacent to East-West Railroad
+
+* Heating: Type of heating
+		
+       Floor	Floor Furnace
+       GasA	Gas forced warm air furnace
+       GasW	Gas hot water or steam heat
+       Grav	Gravity furnace	
+       OthW	Hot water or steam heat other than gas
+       Wall	Wall furnace
+
+* Street: Type of road access to property
+
+       Grvl	Gravel	
+       Pave	Paved
+
+* CentralAir: Central air conditioning
+
+       N	No
+       Y	Yes
+
+* Foundation: Type of foundation
+		
+       BrkTil	Brick & Tile
+       CBlock	Cinder Block
+       PConc	Poured Contrete	
+       Slab	Slab
+       Stone	Stone
+       Wood	Wood
