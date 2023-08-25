@@ -18,7 +18,7 @@ This project notebooks can be found in the [classification](https://github.com/g
 #### Regression
 * [diamonds_intro_regression.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Regression/diamonds_intro_regression.ipynb): walkthrough solution on the Seaborn datased about diamond to get familiar with the regression techniques (linear regression)
 * In [models_testing.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Regression/models_testing.ipynb) we apply decision tree and random forest regressors to our housing dataset
-* 
+* In [Model testing and feature selection.ipynb](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/Regression/Model%20testing%20and%20feature%20selection.ipynb) we test the R^2 score and the RMSE for several model, applying various feature selections (Kbest, RFE, Variance Threshold)
 
 ### Data
 The data can be found in [data](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Machine%20Learning/Classification%20%26%20Regression/Predicting%20Housing%20Prices/data) and are organized according to the following features: 
