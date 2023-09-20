@@ -32,7 +32,7 @@ Utilized Python to create personalized recommender systems for WBSFLIX, an offli
 ### Data Engineering:
 
 #### Cloud Computing
-* __[Building an AWS ETL Pipeline for E-Scooter Movement Prediction](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Engineering%20/Cloud%20Computing/Building%20an%20AWS%20ETL%20Pipeline%20for%20E-Scooter%20Movement%20Prediction)__: Utilized Python and SQL for building an AWS ETL (Extract, Transform, Load) pipeline for predicting e-scooter movements for Gans, a leading e-scooter-sharing startup. Leveraging web scraping, API integration, and database management, we collect and transform data from various sources. By deploying the pipeline on AWS cloud infrastructure, we ensure scalability and automation. Valuable insights and learnings are shared in a concise [Medium article](https://medium.com/@gian.inkof/data-pipelines-on-the-cloud-or-what-it-actually-means-to-extract-transform-and-load-etl-data-1ad23cd2bb6).
+* __[Building an AWS ETL Pipeline for E-Scooter Movement Prediction](https://github.com/ginkof/Building-an-AWS-ETL-Pipeline-for-E-Scooter-Movement-Prediction/tree/main)__: Utilized Python and SQL for building an AWS ETL (Extract, Transform, Load) pipeline for predicting e-scooter movements for Gans, a leading e-scooter-sharing startup. Leveraging web scraping, API integration, and database management, we collect and transform data from various sources. By deploying the pipeline on AWS cloud infrastructure, we ensure scalability and automation. Valuable insights and learnings are shared in a concise [Medium article](https://medium.com/@gian.inkof/data-pipelines-on-the-cloud-or-what-it-actually-means-to-extract-transform-and-load-etl-data-1ad23cd2bb6).
 
 ----
 ### Data Analysis:
