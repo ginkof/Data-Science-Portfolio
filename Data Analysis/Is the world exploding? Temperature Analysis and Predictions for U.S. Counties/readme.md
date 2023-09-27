@@ -13,7 +13,8 @@ Data are organized as follows
 * `SWDOWN`: Downwelling shortwave radia've flux at the surface 
 * `GLW`: Downwelling longwave radia've flux at the surface
 
-For every year, the above quantities are measured hourly. Every dataframe hence have 56045 rows.
+We have 40 years (years 1980-2019). For every year, the above quantities are measured hourly. Therefore, we have 365*24 dataframes, each with 56045 rows.
+
 
 
 
