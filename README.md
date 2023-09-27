@@ -36,11 +36,6 @@ Utilized Python to create personalized recommender systems for WBSFLIX, an offli
 
 ----
 ### Data Analysis:
-* __[Optimizing Conversion Rates: A/B Testing for Enhanced User Experience
-](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Analysis%20/Optimizing%20Conversion%20Rates%3A%20A-B%20Testing%20for%20Enhanced%20User%20Experience)__: Utilized A/B testing to increase the conversion rate of the "SHOP NOW" button through different versions and design changes for Eniac, a tech-focused e-commerce company. By analyzing user behavior and tracking data, the project aims to optimize the user experience, improve sales, and provide valuable insights for informed decision-making.
-
-* __[Optimizing User Engagement: A/B Testing Different Category Titles for Library Website](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Analysis%20/Optimizing%20User%20Engagement%3A%20A-B%20Testing%20Different%20Category%20Titles%20for%20Library%20Website)__: Utilized Python to tests different category titles to enhance user engagement on a library website. Through click-through rate (CTR) analysis, the experiment identifies the most effective category title for an improved user experience.
-
 * __[Analyzing Brazilian Market Expansion Feasibility:  Data Driven Businesses with SQL & Tableau](https://github.com/ginkof/Data-Science-Portfolio/tree/main/Data%20Analysis%20/Analyzing%20Brazilian%20Market%20Expansion%20Feasibility:%20%20Data%20Driven%20Businesses%20with%20SQL%20&%20Tableau)__:  Utilized SQL and Tableau to assess the feasibility of Eniac's expansion, a tech-focused e-commerce company, into the Brazilian market using data from Magist's database. Prepared a concise presentation to recommend whether Eniac should pursue a deal with Magist, considering tech product suitability and delivery speed.
 
 ----
