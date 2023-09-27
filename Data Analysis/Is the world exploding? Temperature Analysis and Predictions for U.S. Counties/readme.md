@@ -2,7 +2,7 @@
 
 Utilized Python and 'seasonal decompose'-approach on hourly meteorological data for years 1980-2019 for each county in the United States to analyze the change in time of temperature. Our analysis focuses on the TGW dataset (Jones, A. D., Rastogi, D., Vahmani, P., Stansfield, A., Reed, K., Thurber, T., Ullrich, P., & Rice, J. S. (2022) availale [here](https://www.osti.gov/biblio/1960548).
 
-### Data
+## Data
 Data are organized as follows
 
 * `FIPS`: FIPS code for the county 
