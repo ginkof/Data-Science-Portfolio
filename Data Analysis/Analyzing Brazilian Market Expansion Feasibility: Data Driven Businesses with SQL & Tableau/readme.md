@@ -7,7 +7,7 @@ The goal of this project is to analyze Magist's database, a centralized order ma
 
 
 ### SQL Code
-SQL code can be found [here](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Analysis%20/Analyzing%20Brazilian%20Market%20Expansion%20Feasibility%3A%20%20Data%20Driven%20Businesses%20with%20SQL%20%26%20Tableau/Answer%20business%20questions.sql)
+SQL code can be found [here](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Analysis/Analyzing%20Brazilian%20Market%20Expansion%20Feasibility%3A%20Data%20Driven%20Businesses%20with%20SQL%20%26%20Tableau/Answer%20business%20questions.sql)
 
 * Extract the technology product categories from the "Magist" database.
 * Calculate the number of sold and processed technology products.
@@ -16,4 +16,4 @@ SQL code can be found [here](https://github.com/ginkof/Data-Science-Portfolio/bl
 
 
 ### Results
-Results can be found in the PPT prensentation [here](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Analysis%20/Analyzing%20Brazilian%20Market%20Expansion%20Feasibility%3A%20%20Data%20Driven%20Businesses%20with%20SQL%20%26%20Tableau/presentation%20Eniac%20and%20Magist.pptx). Plots are generated using Tableau.
+Results can be found in the PPT prensentation [here](https://github.com/ginkof/Data-Science-Portfolio/blob/main/Data%20Analysis/Analyzing%20Brazilian%20Market%20Expansion%20Feasibility%3A%20Data%20Driven%20Businesses%20with%20SQL%20%26%20Tableau/presentation%20Eniac%20and%20Magist.pptx). Plots are generated using Tableau.
